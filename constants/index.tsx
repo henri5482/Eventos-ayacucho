@@ -1,16 +1,16 @@
 export const headerLinks = [
     {
-        label: 'Inicio',
+        label: '',
         route: '/',
     },
-    {
-        label: 'Crear evento',
-        route: '/events/create',
-    },
-    {
-        label: 'Mi perfil',
-        route: '/profile',
-    },
+    // {
+    //     label: 'Crear evento',
+    //     route: '/events/create',
+    // },
+    // {
+    //     label: 'Mi perfil',
+    //     route: '/profile',
+    // },
 ]
 
 export const eventDefaultValues = {
